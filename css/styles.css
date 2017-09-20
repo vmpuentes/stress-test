@@ -1,0 +1,12 @@
+.jumbotron {
+  font-size: 42px;
+  background-image: url("../img/head.jpg");
+  background-position: right;
+  background-repeat: space;
+  background-clip: border-box;
+}
+
+body {
+  background-image: url("../img/stressjumbo.jpg");
+  background-repeat: round;
+}
